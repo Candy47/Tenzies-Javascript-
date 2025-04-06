@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Welcome to React Router!
+# Welcome to **Tenzies** game using Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
